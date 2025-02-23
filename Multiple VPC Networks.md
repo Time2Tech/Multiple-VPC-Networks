@@ -1,6 +1,4 @@
-# Multiple VPC Networks || [GSP211](https://www.cloudskillsboost.google/focuses/22772?parent=catalog) ||
-
-## Solution [here](https://youtu.be/lryqgJ_C_uw)
+# Multiple VPC Networks 
 
 ### Run the following Commands in CloudShell
 
@@ -17,7 +15,3 @@ sudo chmod +x gsp211.sh
 ##### *You Have Successfully Demonstrated Your Skills And Determination.*
 
 #### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
